@@ -1,0 +1,1 @@
+// All App Colors are defined here and can be used throughout the app.
